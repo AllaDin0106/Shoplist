@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="shoplister">
+
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ShoplisterDefault">
+        <activity android:name=".layouts.NavigatorActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".layouts.LoginActivity" android:noHistory="true"></activity>
+        <activity android:name=".layouts.MainActivity"></activity>
+        <activity android:name=".layouts.NewListActivity"></activity>
+        <activity android:name=".layouts.ContactsActivity"></activity>
+        <activity android:name=".layouts.PreferencesActivity"></activity>
+        <activity android:name=".layouts.ShoplistActivity"></activity>
+
+        <service android:name=".core.Notifications"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "555200155236",
+    "project_id": "shoplister-f6afe",
+    "storage_bucket": "shoplister-f6afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555200155236:android:e4706a36387f99392e1971",
+        "android_client_info": {
+          "package_name": "com.shoplister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555200155236-c2agdmjiccg95l1lemmjf1njdql71iar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shoplister",
+            "certificate_hash": "cb7a430b013661c45323cdf260c518cb720e5887"
+          }
+        },
+        {
+          "client_id": "555200155236-o40r3vrm51pfs3rqshs3c867lf66r3rn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shoplister",
+            "certificate_hash": "35ba39106e5615f1624a3a737cdc819d24798464"
+          }
+        },
+        {
+          "client_id": "555200155236-k1f1jcd8aln21j773i26av5ltujb39ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLq2oJIYbKMiMvmzZYwCw_nSKPllJy-4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555200155236-k1f1jcd8aln21j773i26av5ltujb39ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

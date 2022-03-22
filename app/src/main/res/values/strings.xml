@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Shoplister</string>
+    <string name="login_logo_title">Shoplister</string>
+    <string name="login_button">Sign in with Google</string>
+
+    <string name="new_list">New List</string>
+    <string name="contacts">Contacts</string>
+    <string name="preferences">Preferences</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string-array name="theme_colors">
+        <item>Turquoise</item>
+        <item>Alizarin</item>
+        <item>Belizehole</item>
+        <item>Amethyst</item>
+    </string-array>
+
+    <string-array name="theme_values">
+        <item>Turquoise</item>
+        <item>Alizarin</item>
+        <item>Belizehole</item>
+        <item>Amethyst</item>
+    </string-array>
+</resources>

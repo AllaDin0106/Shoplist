@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Turquoise">#1abc9c</color>
+    <color name="Greensea">#16a085</color>
+    <color name="Emerland">#2ecc71</color>
+    <color name="Nephritis">#27ae60</color>
+    <color name="Peterriver">#3498db</color>
+    <color name="Belizehole">#2980b9</color>
+    <color name="Amethyst">#9b59b6</color>
+    <color name="Wisteria">#8e44ad</color>
+    <color name="Wetasphalt">#34495e</color>
+    <color name="Midnightblue">#2c3e50</color>
+    <color name="Sunflower">#f1c40f</color>
+    <color name="Orange">#f39c12</color>
+    <color name="Carrot">#e67e22</color>
+    <color name="Pumpkin">#d35400</color>
+    <color name="Alizarin">#e74c3c</color>
+    <color name="Pomegranate">#c0392b</color>
+    <color name="Clouds">#ecf0f1</color>
+    <color name="Silver">#bdc3c7</color>
+    <color name="Concrete">#95a5a6</color>
+    <color name="Asbestos">#7f8c8d</color>
+
+    <color name="White">#ffffff</color>
+    <color name="Shadow">#2b2b2b</color>
+    <color name="Black">#000000</color>
+    <color name="Light">#F8F8F8</color>
+
+    <color name="color_bakery">#E67E22</color>
+    <color name="color_bakery_bg">#07E67E22</color>
+    <color name="color_bakery_border">#2BE67E22</color>
+
+    <color name="color_berries">#9B59B6</color>
+    <color name="color_berries_bg">#079B59B6</color>
+    <color name="color_berries_border">#2B9B59B6</color>
+
+    <color name="color_deserts">#34495E</color>
+    <color name="color_deserts_bg">#0734495E</color>
+    <color name="color_deserts_border">#2B34495E</color>
+
+
+    <color name="color_dishes">#666666</color>
+    <color name="color_dishes_bg">#07666666</color>
+    <color name="color_dishes_border">#2B666666</color>
+
+
+    <color name="color_drinks">#3498DB</color>
+    <color name="color_drinks_bg">#073498DB</color>
+    <color name="color_drinks_border">#2B3498DB</color>
+
+
+    <color name="color_fast_food">#A4C244</color>
+    <color name="color_fast_food_bg">#07A4C244</color>
+    <color name="color_fast_food_border">#2BA4C244</color>
+
+
+    <color name="color_fruits">#2ECC71</color>
+    <color name="color_fruits_bg">#072ECC71</color>
+    <color name="color_fruits_border">#2B2ECC71</color>
+
+
+    <color name="color_ingredients">#987858</color>
+    <color name="color_ingredients_bg">#07987858</color>
+    <color name="color_ingredients_border">#2B987858</color>
+
+
+    <color name="color_meat">#E74C3C</color>
+    <color name="color_meat_bg">#07E74C3C</color>
+    <color name="color_meat_border">#2BE74C3C</color>
+
+
+    <color name="color_nuts">#735D3A</color>
+    <color name="color_nuts_bg">#07735D3A</color>
+    <color name="color_nuts_border">#2B735D3A</color>
+
+
+    <color name="color_pastry">#938553</color>
+    <color name="color_pastry_bg">#07938553</color>
+    <color name="color_pastry_border">#2B938553</color>
+
+
+    <color name="color_seafood">#34C8DB</color>
+    <color name="color_seafood_bg">#0734C8DB</color>
+    <color name="color_seafood_border">#2B34C8DB</color>
+
+
+    <color name="color_vegetables">#1ABC9C</color>
+    <color name="color_vegetables_bg">#071ABC9C</color>
+    <color name="color_vegetables_border">#2B1ABC9C</color>
+
+</resources>

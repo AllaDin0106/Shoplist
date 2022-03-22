@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.ShoplisterDefault" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/White</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/White</item>
+    </style>
+
+    <style name="Theme.ShoplisterTurquoise" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/Turquoise</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/Turquoise</item>
+    </style>
+
+    <style name="Theme.ShoplisterAlizarin" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/Alizarin</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/Alizarin</item>
+    </style>
+
+    <style name="Theme.ShoplisterBelizehole" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/Belizehole</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/Belizehole</item>
+    </style>
+
+    <style name="Theme.ShoplisterAmethyst" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/Amethyst</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/Amethyst</item>
+    </style>
+</resources>
